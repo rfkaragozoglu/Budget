@@ -1,1 +1,1 @@
-Selecet * from cdItem
+Select * from cdItem
